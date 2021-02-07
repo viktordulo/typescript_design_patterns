@@ -4,5 +4,6 @@
 
 * Open file __package.json__
 * Change the "start" script with needed filename to **./js/_someName_.js**
+* Write in terminal **npm install**
 * Write in terminal **npm run watch:ts**
 * Write in terminal **npm start**

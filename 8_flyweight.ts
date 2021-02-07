@@ -32,6 +32,6 @@ const teslaS = carFactory.create('modelS', 80000);
 const teslaX = carFactory.create('modelX', 100000);
 const tesla = carFactory.create('modelX', 300000);
 
-console.log(teslaS);
-console.log(teslaX);
-console.log(tesla);
+console.log(teslaS); // modelS, 80000
+console.log(teslaX); // modelX, 100000
+console.log(tesla); // modelX, 100000
