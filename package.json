@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch:ts": "tsc -w",
     "tsc": "tsc",
-    "start": "node ./js/9_chain_of_responsibility.js"
+    "start": "node ./js/10_command.js"
   },
   "author": "",
   "license": "ISC",
